@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>oclazyload</artifactId>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9</version>
     <name>oclazyload</name>
     <description>WebJar for oclazyload</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/oclazyload</url>
         <connection>scm:git:https://github.com/webjars/oclazyload.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/oclazyload.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>oclazyload-1.0.9</tag>
     </scm>
     
     <build>
